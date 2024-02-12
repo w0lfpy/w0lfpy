@@ -1,4 +1,7 @@
-### Hi there 👋
+# 🏍️ Jose Suarez
+
+**'Developer in Progress (Python Developer/Cibersecurity/Financial Advisor)'**
+
 
 <!--
 **w0lfpy/w0lfpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
