@@ -8,11 +8,11 @@ I am also passionate about economics and financial markets to which I have been 
 
 
 ### Connect with me:
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./Img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./Img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./Img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 ---
 
 ### 🧰 Languages and Tools
