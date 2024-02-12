@@ -10,7 +10,7 @@ I am also passionate about economics and financial markets to which I have been 
 ### Connect with me:
 [![website](./Img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./Img/linkedin-dark.svg)](https://linkedin.com/in/josesuarez#gh-dark-mode-only)
+[![website](./Img/linkedin-dark.svg)]([https://linkedin.com/in/josesuarez#gh-dark-mode-only](https://www.linkedin.com/in/jose-suarez-125291132/))
 &nbsp;&nbsp;
 [![website](./Img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
