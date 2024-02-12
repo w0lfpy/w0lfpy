@@ -6,6 +6,13 @@ Hi, I'm Jose Suarez python developer and cybersecurity lover. I'm currently a st
 I am also passionate about economics and financial markets to which I have been working for more than 5 years. I am on my way to unite my two passions and I want to make you participants, so I invite you to follow me and do not miss any of the work that I'm doing that will be in this same profile!!!
 
 
+
+### Connect with me:
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 ---
 
 ### 🧰 Languages and Tools
