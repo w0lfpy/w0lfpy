@@ -7,7 +7,7 @@ I am also passionate about economics and financial markets to which I have been 
 
 
 
-### Connect with me:
+#### ✒️ Connect with me:
 [![website](./Img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./Img/linkedin-dark.svg)](https://www.linkedin.com/in/jose-suarez-125291132/)
