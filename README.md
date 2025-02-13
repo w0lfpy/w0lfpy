@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/jose-suarez-ares" target="_blank">
+  <a href="https://www.linkedin.com/in/jose-suarez-ares" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
@@ -47,11 +47,11 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
-<!--
 ###
 
 <img src="https://raw.githubusercontent.com/w0lfpy/w0lfpy/output/snake.svg" alt="Snake animation" />
 
+<!--
 ###
 
 <div align="right">
