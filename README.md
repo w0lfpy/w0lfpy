@@ -49,7 +49,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/w0lfpy/w0lfpy/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/w0lfpy/w0lfpy/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 <!--
 ###
