@@ -1,4 +1,4 @@
-# 👨‍💻 Jose Suarez
+# 👨‍💻 Jose Suarez **`Developer in Progress (Python Developer/Cibersecurity/Financial Advisor)`**
 
 **`Developer in Progress (Python Developer/Cibersecurity/Financial Advisor)`**
 
